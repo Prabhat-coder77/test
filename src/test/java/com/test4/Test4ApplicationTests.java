@@ -11,8 +11,8 @@ class Test4ApplicationTests {
 		int x=10;
 		String s="Change here"
 
-                                    String s1="Conflicts";
-                                    float f=10.3
+         String s1="Conflicts";
+          float f=10.3
 
 		
 
