@@ -9,6 +9,7 @@ class Test4ApplicationTests {
 	@Test
 	void contextLoads() {
 		int x=10;
+		String s="Change here"
 	}
 
 }
