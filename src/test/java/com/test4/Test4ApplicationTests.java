@@ -10,6 +10,8 @@ class Test4ApplicationTests {
 	void contextLoads() {
 		int x=10;
 		String s="Change here"
+                                    String s1="Conflicts";
+
 	}
 
 }
